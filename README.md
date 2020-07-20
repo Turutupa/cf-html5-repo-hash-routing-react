@@ -6,9 +6,11 @@ It contains these folders and files, following our recommended project layout:
 
 File / Folder | Purpose
 ---------|----------
-`app/` | content for UI frontends go here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
+`app/` | react application with hash routing added
+`approuter` | approuter with defaults initiated
+`db/` | your domain models go here, defaults added
+`srv/` | your service models and code go here, defaults added
+`html5Deployer` | html5 deployer application for html5 repo service
 `package.json` | project metadata and configuration
 `readme.md` | this getting started guide
 
