@@ -16,9 +16,8 @@ File / Folder | Purpose
 
 
 ## Next Steps...
-
-- Open a new terminal and run  `cds watch`
-- ( in VSCode simply choose _**Terminal** > Run Task > cds watch_ )
+- If you haven't already run `npm install` at the root of the project and in the app folder
+- Open a new terminal and run  `npm run dev`
 - Start adding content, e.g. a [db/schema.cds](db/schema.cds), ...
 
 
